@@ -1,0 +1,6 @@
+{
+  "name": "Pulse AI - Executive Telemetry & Autonomous Intimations",
+  "description": "Autonomous executive telemetry briefing, prioritized directive ingestion from Slack and Gmail, deep AI context synthesis, and one-tap intimation dispatches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
